@@ -2337,5 +2337,3 @@ sleep:
     li $a0, 17 # sleep for 1/60 of a second 
     syscall
     jr $ra
-
-# Wania Gondal <3
